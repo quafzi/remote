@@ -21,10 +21,5 @@
         }
     },
     "target-dir": "Illuminate/Remote",
-    "extra": {
-        "branch-alias": {
-            "dev-master": "4.1-dev"
-        }
-    },
     "minimum-stability": "dev"
 }
